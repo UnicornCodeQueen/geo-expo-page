@@ -1,0 +1,25 @@
+body {
+    color: white;
+    font-family: cursive;
+    background-size: cover;
+}
+
+.heading {
+    text-align: center;
+}
+
+#Overflow {
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+.mountain_img {
+    margin-top: 12px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
